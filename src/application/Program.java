@@ -36,6 +36,7 @@ public class Program {
 					}
 				}
 			}
+			System.out.println("Teste");
 			System.out.println();
 		}
 		sc.close();
